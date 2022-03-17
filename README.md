@@ -1,3 +1,3 @@
 # testGit5
-REMOTE
+LOCAL
 I am writing... something 
